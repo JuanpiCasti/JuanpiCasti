@@ -25,11 +25,7 @@
 <h1>Tools I use! 🛠️</h1>
 <Br>
 
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=django&logoColor=white)|![](https://img.shields.io/badge/SQL-2C2D72?style=for-the-badge&logo=sql&logoColor=white)|![](https://img.shields.io/badge/HTML-F37626.svg?&style=for-the-badge&logo=HTML5&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/CSS-342B029.svg?&style=for-the-badge&logo=css3&logoColor=white)|![](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white)|![](https://img.shields.io/badge/Node-342B029?style=for-the-badge&logo=node.js&logoColor=white)|![](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/SQL-239120?style=for-the-badge&logo=SQL&logoColor=white)|
-
-  
+<table>  <tr>  <th><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python Badge"></th>  <th><img src="https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"></th>  <th><img src="https://img.shields.io/badge/SQL-2C2D72?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"></th>  <th><img src="https://img.shields.io/badge/HTML-F37626.svg?&style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge"></th>  </tr>  <tr>  <td><img src="https://img.shields.io/badge/CSS-342B029.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"></td>  <td><img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"></td>  <td><img src="https://img.shields.io/badge/Node-342B029?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"></td>  <td><img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"></td>  </tr>  </table>
 
 <Br>
 <h1>Some of my Projects! 🎨</h1>

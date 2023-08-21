@@ -9,6 +9,7 @@
 
 - 🏫: I'm a third year Information Systems Engineering student at UTN FRBA.
 - 🌎: I’m from Buenos Aires, Argentina. 🏆
+- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
   
 <hr>
 <Br>
@@ -28,11 +29,8 @@
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/CSS-342B029.svg?&style=for-the-badge&logo=css3&logoColor=white)|![](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white)|![](https://img.shields.io/badge/Node-342B029?style=for-the-badge&logo=node.js&logoColor=white)|![](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)|![](https://img.shields.io/badge/SQL-239120?style=for-the-badge&logo=SQL&logoColor=white)|
 
-</div>
-</div>  
+  
 
-<Br>
-<hr>
 <Br>
 <h1>Some of my Projects! 🎨</h1>
 <Br>

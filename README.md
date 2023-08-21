@@ -8,7 +8,6 @@
 
 - 🏫: I'm a third year Information Systems Engineering student at UTN FRBA.
 - 🌎: I’m from Buenos Aires, Argentina. 🏆
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
   
 <hr>
 <Br>

@@ -10,8 +10,7 @@
 - 🌎: I’m from Buenos Aires, Argentina. 🏆
 - 👨‍🎓: I've a diploma in Marketing & Communication
 - 👨‍💻: I started learning to code during high school, but I forgot about it for a while. So, after reencountering with it in a class from my marketing diploma, I fell in love with programming again and so I ended up studying Systems Engineering!
-  
-<hr>
+
 <Br>
 <h1>Get in Touch! 📬</h1>
 

@@ -8,6 +8,8 @@
 
 - 🏫: I'm a third year Information Systems Engineering student at UTN FRBA.
 - 🌎: I’m from Buenos Aires, Argentina. 🏆
+- 👨‍🎓: I've a diploma in Marketing & Communication
+- 👨‍💻: I started learning to code during high school, I forgot about it for a while, but after reencountering with it in a class from my marketing diploma, I fell in love with it again and I ended up in Systems Engineering!
   
 <hr>
 <Br>
